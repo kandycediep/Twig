@@ -1,0 +1,28 @@
+[
+    {
+        "label": "Petunias",
+        "water":6,
+        "image": "Petuniapics",
+        "text": "• Tender perennial \n • Locate in full sun and water once a week \n •The plant's licorice-like scent helps pest control on plants, resulting in improved soil fertility",
+    },
+    {
+        "label": "Dahlia",
+        "water":14,
+        "image": "Dahliapics",
+        "text": "• Tender perennial \n • Locate in sunny areas \n • The plant can be categorized into 15 different colors",
+        
+    },
+    {
+        "label": "Hydrangea",
+        "water":60,
+        "image": "Hydrangeapics",
+        "text": "• Perennial \n • Locate in partial sun and water at least 3 times a week \n • The plant attracts pollinators which contributes to a healthy ecosystem",
+    },
+    {
+        "label": "Kalanchoe",
+        "water":5,
+        "image": "kalanchoepics",
+        "text": "• Perennial \n • Locate in a place with low humidity and direct sunlight as well as periods of darkness too; water every 2 or 3 weeks \n • The plant discharges water into the atmosphere while removing volatile chemical molecules (VOC) in the air, naturally purifying it",
+       
+    },
+]
